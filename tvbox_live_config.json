@@ -1,0 +1,11 @@
+{
+  "spider": "",
+  "lives": [
+    {
+      "name": "广东电信IPTV",
+      "url": "http://REPLACE_HOST/GuangdongIPTV_http_192.168.9.1_5140.m3u",
+      "epg": "",
+      "logo": ""
+    }
+  ]
+}
